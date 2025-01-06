@@ -1,0 +1,8 @@
+title:Angus' Custom Wish List
+description:Items I want based on specific perks - advice from BlueberriesGG etc
+dimwishlist:item=1815105249&perks=3666208348,269888150,1749209109,3913600130#notes:Falling Guillotine Relentless strikes and Whirlwind Blade first choice for DPS.
+dimwishlist:item=1815105249&perks=3666208348,269888150,4104185692,3913600130#notes:Falling Guillotine Frenzy and Whirlwind Blade second choice for DPS.
+dimwishlist:item=1815105249&perks=3666208348,269888150,1546637391,3913600130#notes:Falling Guillotine Vorpal Weapon and Whirlwind Blade third choice for DPS.
+dimwishlist:item=568611923&perks=3525010810,3301904089,968510818,3078487919#notes:Edge Transit Envious Assassin and Bait and Switch first choice for DPS.
+dimwishlist:item=568611923&perks=3525010810,3301904089,3751912585,3078487919#notes:Edge Transit Cascade Point and Bait and Switch second choice for DPS.
+dimwishlist:item=568611922&perks=3525010810,3301904089,3300816228,1546637391#notes:Mountaintop Auto Loading Holster and Vorpal Weapon first choice DPS.
